@@ -1,1 +1,2 @@
 # Ngram1
+Receiving a file name from the user. Allows text to be entered into this file up to a termination criterion you specify. It saves the text you received from the user to this .txt file. Asking the user how many grams will be calculated after the user meets the termination criterion. The program reads the file according to the "n" gram value entered by the user, calculates the n-gram values and writes it to the new file.
